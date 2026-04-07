@@ -6,6 +6,7 @@
 
 ## karam dosa
 * dosa batter
+<<<<<<< HEAD
 * karam and oil
 
 ## paneer dosa
@@ -13,5 +14,3 @@
 * ghee
 * kaju paste
 * paneer
-* mysore masala
-* Onions and Tamatoes
